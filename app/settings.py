@@ -1,0 +1,2 @@
+import dj_database_url
+DATABASES = {'default': dj_database_url.config(default="postgres://xmbmpieahvcfdw:bd55da5f73e5099295c1324033b691bdc539e750cc1702905d73d5359f056070@ec2-54-165-178-178.compute-1.amazonaws.com:5432/dbnuj5sucsoo59")}
